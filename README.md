@@ -178,4 +178,4 @@ M.Tech in Computer Science & Engineering — Delhi Technological University (DTU
 
 ## 📄 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](https://github.com/smeetpatel2530/loan-risk-monitoring/blob/main/LICENSE).
